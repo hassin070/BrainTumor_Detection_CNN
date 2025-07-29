@@ -1,1 +1,1 @@
-# Cancer_Detection_CNN
+# BrainTumor_Detection_CNN
